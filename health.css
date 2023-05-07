@@ -1,0 +1,48 @@
+body {
+    font-family: Lucida Console ,Monospace ;
+    font-size: larger;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    background: url(finalmenhel.jpeg) no-repeat;
+    background-size: cover;
+  }
+  
+  header {
+    background-color: #1a1c92;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  nav li {
+    float: left;
+  }
+  
+  nav a {
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    background-color: #ffffff;
+  }
+  
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 40
+  }
